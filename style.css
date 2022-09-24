@@ -3,9 +3,10 @@ body {
   background-color: #aaa;
 }
 #main {
-  width: 1000px;
+  display: flex;
   height: 550px;
-  margin: 50px auto;
+  justify-content: center;
+  align-items: center;
 }
 #calculator {
   width: 320px;
